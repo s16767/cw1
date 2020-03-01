@@ -1,1 +1,2 @@
-# cw1
+# Mateusz Świerczewski
+# APBD cw1
